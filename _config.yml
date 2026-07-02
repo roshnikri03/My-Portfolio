@@ -1,0 +1,16 @@
+title: My Portfolio
+email: roshnikri03@example.com
+description: >
+  Personal portfolio website for Roshni Kumari.
+baseurl: ""
+url: "https://roshnikri03.github.io/My-Portfolio"
+
+author:
+  name: Roshni Kumari
+
+markdown: kramdown
+
+theme: minima
+
+plugins:
+  - jekyll-feed
